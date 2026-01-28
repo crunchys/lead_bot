@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/python-3.9%2B-blue)
+![Telegram Bot](https://img.shields.io/badge/telegram%20bot-aiogram-green)
 # Telegram-бот для автоматического приёма заявок
 
 **Готовое решение для бизнеса:** Telegram-бот, который собирает заявки от клиентов, сохраняет их в Google Sheets и отправляет уведомления менеджеру.
